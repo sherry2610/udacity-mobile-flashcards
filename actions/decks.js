@@ -3,7 +3,7 @@ import {
     getDecks,
     removeDeckFromDecks,
     addCardToDeck,
-  } from '../../utils/helpers';
+  } from '../utils/helpers';
   import {switchLoadingStatus, receiveData} from './loading';
   export const SET_DECKS = 'SET_DECKS';
   export const ADD_DECK = 'ADD_DECK';
