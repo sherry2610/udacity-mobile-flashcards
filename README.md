@@ -3,7 +3,7 @@ React native app final project of udacity react nanodegree.
 
 ## Step by Step guide for install and launching the project
 
-1. Setup NodeJs(skip this step if you already have nodeJs)
+1. Setup NodeJs(skip this step if you already have it)
 2. Install expo-cli using npm: __npm install expo-cli --global__
 3. install node_modules using: __npm install__
 4. Install expo app on your Android using this link: https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www
